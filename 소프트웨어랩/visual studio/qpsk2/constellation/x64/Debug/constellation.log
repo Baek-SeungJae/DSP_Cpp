@@ -1,0 +1,18 @@
+﻿  channel.cpp
+  constellation_main.cpp
+  evaluate.cpp
+  myMatrix.cpp
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\channel.cpp(8,15): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  receiver.cpp
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\myMatrix.cpp(35,8): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\receiver.cpp(4,25): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\receiver.cpp(9,15): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\receiver.cpp(10,15): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sender.cpp
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\receiver.cpp(24,8): warning C4101:  'dummy' :참조되지 않은 지역 변수입니다.
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\sender.cpp(4,25): warning C4305:  '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\sender.cpp(9,15): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\sender.cpp(10,15): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\constellation\sender.cpp(14,10): warning C4244:  '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  constellation.vcxproj -> D:\[ 과제 ]\공부\소프트웨어랩\visual studio\qpsk2(이게 더 맞음)\x64\Debug\constellation.exe

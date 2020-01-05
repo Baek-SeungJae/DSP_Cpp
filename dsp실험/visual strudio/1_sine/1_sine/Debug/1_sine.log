@@ -1,0 +1,6 @@
+﻿  적분.cpp
+c:\users\booruruk\desktop\dsp실험\visual strudio\1_sine\1_sine\적분.cpp(11): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\booruruk\desktop\dsp실험\visual strudio\1_sine\1_sine\적분.cpp(15): warning C4305: '*=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\booruruk\desktop\dsp실험\visual strudio\1_sine\1_sine\적분.cpp(24): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+  1_sine.vcxproj -> C:\Users\Booruruk\Desktop\dsp실험\visual strudio\1_sine\Debug\1_sine.exe
+  1_sine.vcxproj -> C:\Users\Booruruk\Desktop\dsp실험\visual strudio\1_sine\Debug\1_sine.pdb (Partial PDB)

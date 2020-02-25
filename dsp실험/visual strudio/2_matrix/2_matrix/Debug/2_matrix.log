@@ -1,0 +1,7 @@
+﻿  matrix.cpp
+c:\users\booruruk\desktop\dsp실험\visual strudio\2_matrix\2_matrix\matrix.cpp(34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\booruruk\desktop\dsp실험\visual strudio\2_matrix\2_matrix\matrix.cpp(41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\booruruk\desktop\dsp실험\visual strudio\2_matrix\2_matrix\matrix.cpp(48): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\booruruk\desktop\dsp실험\visual strudio\2_matrix\2_matrix\matrix.cpp(55): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2_matrix.vcxproj -> C:\Users\Booruruk\Desktop\dsp실험\visual strudio\2_matrix\Debug\2_matrix.exe
+  2_matrix.vcxproj -> C:\Users\Booruruk\Desktop\dsp실험\visual strudio\2_matrix\Debug\2_matrix.pdb (Partial PDB)
